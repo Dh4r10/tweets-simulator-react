@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/tweets-simulator-react/build/static/css/main.0b35f34f.css",
+    "main.js": "/tweets-simulator-react/build/static/js/main.dcc8a296.js",
+    "static/js/453.9f20d57b.chunk.js": "/tweets-simulator-react/build/static/js/453.9f20d57b.chunk.js",
+    "static/media/twitter-logo.png": "/tweets-simulator-react/build/static/media/twitter-logo.b413b75b86f226240110.png",
+    "index.html": "/tweets-simulator-react/build/index.html",
+    "main.0b35f34f.css.map": "/tweets-simulator-react/build/static/css/main.0b35f34f.css.map",
+    "main.dcc8a296.js.map": "/tweets-simulator-react/build/static/js/main.dcc8a296.js.map",
+    "453.9f20d57b.chunk.js.map": "/tweets-simulator-react/build/static/js/453.9f20d57b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b35f34f.css",
+    "static/js/main.dcc8a296.js"
+  ]
+}
